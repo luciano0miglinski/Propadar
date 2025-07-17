@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PopRadar - Notícias</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f7f7f7;
+      color: #333;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 1rem;
+    }
+    header {
+      background: #000;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 10px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    article {
+      background: white;
+      margin: 1rem 0;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    a.read-more {
+      color: #0066cc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #000;
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>PopRadar</h1>
+    <nav>
+      <a href="#">Início</a>
+      <a href="#">Famosos</a>
+      <a href="#">Tech</a>
+      <a href="#">Virais</a>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <h2><a href="noticias/anitta-e-inteligencia-artificial.html">Anitta e a Inteligência Artificial: o que está por trás da nova era pop</a></h2>
+      <p>A cantora Anitta se envolve em projetos com IA, trazendo inovação e surpresa para o mundo da música... <a class="read-more" href="noticias/anitta-e-inteligencia-artificial.html">Leia mais</a></p>
+    </article>
+
+    <article>
+      <h2><a href="noticias/celebridade-surta-na-live.html">Celebridade Surta na Live e Viraliza nas Redes Sociais</a></h2>
+      <p>Um momento inesperado durante uma live fez a internet pegar fogo com memes e debates... <a class="read-more" href="noticias/celebridade-surta-na-live.html">Leia mais</a></p>
+    </article>
+  </main>
+
+  <footer>
+    &copy; 2025 PopRadar. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Anitta e a Inteligência Artificial - PopRadar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f7f7f7;
+      color: #333;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 1rem;
+    }
+    header {
+      background: #000;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    a.back-link {
+      display: inline-block;
+      margin: 1rem 0;
+      color: #0066cc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    article {
+      background: white;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #000;
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Anitta e a Inteligência Artificial: o que está por trás da nova era pop</h1>
+  </header>
+
+  <main>
+    <article>
+      <p>A cantora Anitta está explorando a inteligência artificial para criar novas experiências musicais e visuais. Com a ajuda de tecnologias avançadas, ela promete revolucionar o cenário pop e aproximar ainda mais fãs e artistas.</p>
+
+      <p>Nos últimos meses, Anitta tem colaborado com startups de tecnologia e divulgado teasers que misturam realidade aumentada e inteligência artificial, prometendo shows inovadores e interativos.</p>
+
+      <p>Essa aposta na tecnologia pode ser um divisor de águas na indústria musical, inspirando outros artistas a embarcarem nessa revolução digital.</p>
+    </article>
+
+    <a class="back-link" href="../index.html">&larr; Voltar para a página inicial</a>
+
+  <footer>
+    &copy; 2025 PopRadar. Todos os direitos reservados.
+  </footer>
+  </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Celebridade Surta na Live - PopRadar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f7f7f7;
+      color: #333;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 1rem;
+    }
+    header {
+      background: #000;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    a.back-link {
+      display: inline-block;
+      margin: 1rem 0;
+      color: #0066cc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    article {
+      background: white;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #000;
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Celebridade Surta na Live e Viraliza nas Redes Sociais</h1>
+  </header>
+
+  <main>
+    <article>
+      <p>Durante uma transmissão ao vivo, uma celebridade teve um momento de nervosismo que rapidamente se tornou viral. Memes e discussões dominaram as redes sociais, mostrando o poder da internet em transformar momentos em fenômenos.</p>
+
+      <p>O episódio gerou debates sobre a pressão do mundo digital e a exposição dos famosos, trazendo reflexões importantes sobre saúde mental e o papel das redes sociais.</p>
+    </article>
+
+    <a class="back-link" href="../index.html">&larr; Voltar para a página inicial</a>
+
+  <footer>
+    &copy; 2025 PopRadar. Todos os direitos reservados.
+  </footer>
+  </main>
+</body>
+</html>
